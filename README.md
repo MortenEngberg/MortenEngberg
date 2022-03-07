@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MortenEngberg
-- 👀 I’m interested in data science, data analysis and IT security
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on university based projects via VS 2019 Community
+- 👨‍🎓 Studying a MScIT in IT, Communication and Organisation @ Aarhus BSS - Aarhus University
+- 👀 I’m interested in AI, data science and IT security
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me - morten.engberg@outlook.com
 
 <!---
