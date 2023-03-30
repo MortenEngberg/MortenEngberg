@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MortenEngberg
 - 👨‍🎓 Studying a MScIT in IT, Communication and Organisation @ Aarhus BSS - Aarhus University
-- 👀 I’m interested in AI, data science and IT security
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in AI, data science and data management
+- 🌱 I’m currently learning Python
 - 📫 How to reach me - morten.engberg@outlook.com
 
 <!---
