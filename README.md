@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MortenEngberg
-- 👨‍🎓 Studying a MScIT in IT, Communication and Organisation @ Aarhus BSS - Aarhus University
-- 👀 I’m interested in AI, data science and data management
-- 🌱 I’m currently learning Python
+- 👨‍🎓 I have a MScIT in IT, Communication and Organisation from Aarhus BSS - Aarhus University
+- 👨‍💻 I'm currently an IT Field Specialist @ GLS Denmark, a part of Royal Mail Group
+- 👀 I’m interested in AI, business analytics and data management
+- 🌱 I’m currently learning DAX and Power BI
 - 📫 How to reach me - morten.engberg@outlook.com
 
 <!---
