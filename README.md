@@ -2,7 +2,7 @@
 - 👨‍🎓 I have a MScIT in IT, Communication and Organisation from Aarhus BSS - Aarhus University
 - 👨‍💻 I'm currently an IT Field Specialist @ GLS Denmark, a part of Royal Mail Group
 - 👀 I’m interested in AI, business analytics and data management
-- 🌱 I’m currently open to learning new techniques
+- 🌱 I’m currently learning Python 🐍 through Codedex.io and Codecademy.com
 - 📫 How to reach me - morten.engberg@outlook.com
 
 <!---
