@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MortenEngberg
 - 👨‍🎓 I have a MScIT in IT, Communication and Organisation from Aarhus BSS - Aarhus University
-- 👨‍💻 I'm currently an IT Field Specialist @ GLS Denmark, a part of Royal Mail Group
-- 👀 I’m interested in AI, business analytics and data management
+- 👨‍💻 I'm currently between jobs
+- 👀 I’m interested in QA, software testing, AI and digital business development
 - 🌱 I’m currently learning Python 🐍 through Codedex.io and Codecademy.com
 - 📫 How to reach me - morten.engberg@outlook.com / https://dk.linkedin.com/in/mortenengberg
 
