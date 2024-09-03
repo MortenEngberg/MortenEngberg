@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MortenEngberg
 - 👨‍🎓 I have a MScIT in IT, Communication and Organisation from Aarhus BSS - Aarhus University
-- 👨‍💻 I'm currently between jobs
+- 👨‍💻 I'm a Junior Test Consultant at Key2Quality
 - 👀 I’m interested in QA, software testing, AI and digital business development
-- 🌱 I’m currently learning Python 🐍 through Codedex.io and Codecademy.com
+- 🌱 I’m currently learning TMAP and Python 🐍 through Codedex.io and Codecademy.com
 - 📫 How to reach me - morten.engberg@outlook.com / https://dk.linkedin.com/in/mortenengberg
 
 <!---
