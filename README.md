@@ -2,7 +2,8 @@
 - 👨‍🎓 I have a MScIT in IT, Communication and Organisation from Aarhus BSS - Aarhus University
 - 👨‍💻 I'm a Junior Test Consultant at Key2Quality
 - 👀 I’m interested in QA, software testing, AI and digital business development
-- 🌱 I’m currently learning TMAP 🐛
+- 📃 TMAP certified
+- 🌱 I’m currently studying for ISTQB Foundation
 - 📫 How to reach me - morten.engberg@outlook.com / https://dk.linkedin.com/in/mortenengberg
 
 <!---
