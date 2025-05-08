@@ -4,7 +4,7 @@
 - 👀 I’m interested in QA, software testing, AI and digital business development
 - 📃 TMAP certified
 - 🌱 I’m currently studying for the TMAP® High-performance Quality Engineering exam
-- 📫 How to reach me - morten.engberg@outlook.com / https://dk.linkedin.com/in/mortenengberg
+- 📫 How to reach me - mortenengberg@proton.me / https://dk.linkedin.com/in/mortenengberg
 
 <!---
 MortenEngberg/MortenEngberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
