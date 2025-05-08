@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a Junior Test Consultant at Key2Quality
 - 👀 I’m interested in QA, software testing, AI and digital business development
 - 📃 TMAP certified
-- 🌱 I’m currently learning JavaScript for testing in Playwright
+- 🌱 I’m currently studying for the TMAP® High-performance Quality Engineering exam
 - 📫 How to reach me - morten.engberg@outlook.com / https://dk.linkedin.com/in/mortenengberg
 
 <!---
